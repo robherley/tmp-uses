@@ -1,4 +1,4 @@
-name: Trigger Build workflow
+name: Call Me Maybe
 
 on:
   workflow_call:
