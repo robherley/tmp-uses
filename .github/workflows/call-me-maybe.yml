@@ -7,4 +7,4 @@ jobs:
   called:
     runs-on: ubuntu-latest
     steps:
-      - run: "echo hello world"
+      - uses: actions/checkout@v5
